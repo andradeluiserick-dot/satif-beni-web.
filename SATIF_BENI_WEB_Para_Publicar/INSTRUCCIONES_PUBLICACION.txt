@@ -1,0 +1,14 @@
+SATIF BENI WEB — PARA PUBLICAR EN INTERNET
+
+1. Descomprimir SATIF_BENI_WEB.zip.
+2. En github.com/new crear repositorio satif-beni-web.
+3. Subir TODOS los archivos descomprimidos, no el ZIP, a la raiz del repositorio.
+4. En share.streamlit.io iniciar sesion con GitHub.
+5. Crear app usando archivo app.py de tu repositorio y pulsar Deploy.
+6. Opcional: en los secretos de la app agregar
+   NASA_FIRMS_MAP_KEY = "TU_CLAVE_REAL"
+   Solicitarla en https://firms.modaps.eosdis.nasa.gov/api/map_key/
+7. La web resultante se abrira desde celular y computadora con una URL streamlit.app.
+
+IMPORTANTE: El ZIP contiene el codigo preparado, pero NO es por si solo una pagina
+ya publicada. La URL final se obtiene al desplegarla en tu cuenta.
